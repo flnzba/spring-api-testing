@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-Application<runnerz>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.fzeba.runnerz.Application",
+			"projectName": "runnerz",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
